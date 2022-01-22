@@ -1,0 +1,10 @@
+D:\kani\config.json
+
+{
+   "ACCOUNT_SID":"####",
+   "AUTH_TOKEN":"####",
+   "api_key":"https://api.api-cricket.com/?method=get_livescore&APIkey=#######",
+   "from_mobile":"+#####",
+   "to_mobile":"+#####",
+   "normalNumber":"+####"
+}
